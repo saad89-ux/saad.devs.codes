@@ -81,13 +81,16 @@ I am currently working on backend projects.
 ## 🏆 GitHub Trophies
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saad89-ux&theme=darkhub&no-frame=false&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saad89-ux&theme=discord&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
 
-## ✍️ Random Dev Quote
-![Quote](](https://github.com/user-attachments/assets/d058d0e2-c536-4bc9-9ade-b1c9998be34b))
+## ✍️ Random Dev Quote## 
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 ---
 
