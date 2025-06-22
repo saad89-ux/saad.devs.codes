@@ -71,15 +71,19 @@ I am currently working on backend projects.
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=your-username&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&hide_border=false&layout=compact)
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad89-ux&show_icons=true&theme=chartreuse-dark&rank_icon=percentile&hide_border=false)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=saad89-ux&theme=chartreuse-dark&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad89-ux&layout=compact&theme=chartreuse-dark&hide_border=false)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&margin-w=15)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saad89-ux&theme=darkhub&no-frame=false&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
