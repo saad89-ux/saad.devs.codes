@@ -70,15 +70,11 @@ I am currently working on backend projects.
 ---
 
 ## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moosaharoon&theme=github_dark)
-
-<img src="https://github-readme-stats.vercel.app/api?username=moosaharoon&count_private=true&show_icons=true&theme=github_dark" />
-
-<img src="https://streak-stats.demolab.com?user=moosaharoon&theme=github-dark&hide_border=true" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=moosaharoon&theme=github_dark" />
-
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saad89-ux&theme=github_dark)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saad89-ux&theme=github_dark)
+![Streak Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saad89-ux&theme=github_dark&utcOffset=+5)
+![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saad89-ux&theme=github_dark)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saad89-ux&theme=github_dark)
 
 ---
 
