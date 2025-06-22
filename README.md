@@ -71,11 +71,12 @@ I am currently working on backend projects.
 
 ## 📊 GitHub Stats:
 
-## 📊 GitHub Stats:
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saad89-ux&theme=github_dark)
+![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saad89-ux&theme=github_dark)
+![Streak Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saad89-ux&theme=github_dark&utcOffset=+5)
+![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saad89-ux&theme=github_dark)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saad89-ux&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saad89-ux&show_icons=true&theme=chartreuse-dark&rank_icon=percentile&hide_border=false)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=saad89-ux&theme=chartreuse-dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saad89-ux&layout=compact&theme=chartreuse-dark&hide_border=false)
 
 ---
 
